@@ -1,0 +1,1 @@
+Simple dice stimulant project, built in Python, that runs inside the console.
